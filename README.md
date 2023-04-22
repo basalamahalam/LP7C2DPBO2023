@@ -3,5 +3,6 @@
 
 
 ## Hasil Program
-![Screenshot](https://github.com/basalamahalam/TP2DPBO2023/blob/main/screenshot/UML.drawio%20(1).png)
+![Screenshot](https://github.com/basalamahalam/LP7C2DPBO2023/blob/main/screenshot/Screenshot%20(1089).png)
+![Screenshot](https://github.com/basalamahalam/LP7C2DPBO2023/blob/main/screenshot/Screenshot%20(1090).png)
 
